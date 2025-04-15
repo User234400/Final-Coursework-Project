@@ -120,6 +120,8 @@ Average Attendance: 92%
 ## ✍️ Author
 
 Coursework project by **Anarbaeva Asel**.  
+Presentation:
+https://www.canva.com/design/DAGkuTHmcmw/m4yy_vuVgNUZtOt2aB8zkg/edit?utm_content=DAGkuTHmcmw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 Simple, clean, and focused on core programming concepts.
 
 
