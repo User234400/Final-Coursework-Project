@@ -10,12 +10,12 @@ The program allows you to:
 - Delete students by ID
 - Generate a simple report with statistics
 
-Data is saved in a text file (`students.txt`) for persistence between sessions.
+Data is saved in a text file (`students.csv`) for persistence between sessions.
 
 ## 🧠 Technologies & Concepts Used
 
 - ✅ Java (basic syntax, classes, methods)
-- ✅ File I/O (read/write from `.txt` file)
+- ✅ File I/O (read/write from `.csv` file)
 - ✅ ArrayList for storing student data
 - ✅ Scanner for user input
 - ✅ Modular code structure with 3 classes
@@ -29,7 +29,7 @@ Data is saved in a text file (`students.txt`) for persistence between sessions.
 | `Main.java`        | Main menu and user interface                |
 | `Student.java`     | Represents a student object (data model)    |
 | `StudentService.java` | Contains all logic (add, delete, report) |
-| `students.txt`     | File where student records are stored       |
+| `students.csv`     | File where student records are stored       |
 
 ## 🧾 Functions Implemented
 
@@ -111,7 +111,7 @@ Average Attendance: 92%
 
 ## 📌 Notes
 
-- All data is stored in `students.txt`.
+- All data is stored in `students.csv`.
 - The file must not contain headers (like "StudentID,...").
 - The program handles invalid input (e.g., letters instead of numbers).
 - No GUI is used – only console.
