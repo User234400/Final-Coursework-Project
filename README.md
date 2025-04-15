@@ -1,4 +1,5 @@
-# 🎓 Student Management System
+# 🎓 Student Record Tracker
+
 
 ## 📌 Project Description
 
